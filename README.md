@@ -6,5 +6,11 @@
 
 Скачай репозиторій, перейди в його папку і для перевірки відповідного завдання виконай:
 ```bash
+# Використання сортування 
+python .\recursive_sort_1.py -s c:\your\path\to\directory # Windows
+python recursive_sort_1.py -s /c/your/path/to/directory # Linux
 
+#Запуск тестів для функції сортування
+python .\test_file_sort_unittest.py # Windows
+python test_file_sort_unittest.py # Linux
 ```
