@@ -19,8 +19,8 @@ python .\draw_koch_snowflake.py # Windows
 python draw_koch_snowflake.py # Linux
 
 # Використання порівняння алгоритмів сортування
-python .\comparance_sort_algs.py # Windows
-python comparance_sort_algs.py # Linux
+python .\comparison_sort_algs.py # Windows
+python comparison_sort_algs.py # Linux
 ```
 ## ▶️ Висиновки щодо порівняння алгоритмів сортування
 | Розмір масиву | Insertion Sort (сек) | Merge Sort (сек) | Timsort (сек) |
